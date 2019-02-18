@@ -102,8 +102,6 @@ const Player = (mostRecentEpisode: Episode) => ({ content }: Props) => {
       }
       setState({ timeWasLoaded: false })
     } else {
-      console.log('audio.current1', audio.current.duration)
-      console.log('audio.current2', e.currentTarget)
       const { currentTime = 0, duration = 1 } = e.currentTarget
 
       const progressTime = (currentTime / duration) * 100
@@ -114,7 +112,6 @@ const Player = (mostRecentEpisode: Episode) => ({ content }: Props) => {
 
   const togglePlay = () => {
     const method = playing ? 'pause' : 'play'
-    // console.log('togglePlay', method, audio)
     audio.current[method]()
   }
 
@@ -163,13 +160,9 @@ const Player = (mostRecentEpisode: Episode) => ({ content }: Props) => {
 
   const speedDown = () => speed(-0.25)
 
-  console.log({ audio, duration })
-
-  // // currently this is a bug only in produciton - duration is always infinit
-  // // https://stackoverflow.com/questions/21522036/html-audio-tag-duration-always-infinity
-  // // https://stackoverflow.com/questions/21522036/html-audio-tag-duration-always-infinity
-  // const playerTime = `${formatTime(currentTime)} / ${formatTime(duration)}`
-  const playerTime = `${formatTime(currentTime)}`
+  // // currently this is a bug only in produciton - duration is always infinity in git LFS
+  // const playerTime = `${formatTime(currentTime)}`
+  const playerTime = `${formatTime(currentTime)} / ${formatTime(duration)}`
   return (
     <div className="player">
       <div className="player__section player__section--left">
@@ -373,8 +366,9 @@ const Player = (mostRecentEpisode: Episode) => ({ content }: Props) => {
         onPause={playPause}
         onTimeUpdate={timeUpdate}
         onLoadedMetadata={timeUpdate}
-        onDurationChange={e =>
-          console.log('duration', e.currentTarget.duration)
+        onDurationChange={
+          e => console.log('duration', e.currentTarget.duration)
+          // this never seems to get called
         }
         src={show.url}
         preload="auto"
