@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <channel>
+        <title>This Week in r/Reactjs</title>
+        <link>https://reactstaticpodcast.netlify.com</link>
+        <language>en</language>
+        <description>a podcast feed and blog generator in React and hosted on Netlify</description>
+        <managingEditor>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com)</managingEditor>
+        <pubDate>Mon, 18 Feb 2019 15:16:32 GMT</pubDate>
+        <lastBuildDate>Mon, 18 Feb 2019 15:16:32 GMT</lastBuildDate>
+        <docs>https://reactstaticpodcast.netlify.com</docs>
+        <generator>https://github.com/sw-yx/react-static-typescript-starter</generator>
+        <itunes:summary>This Week in r/Reactjs</itunes:summary>
+        <itunes:author>This Week in r/Reactjs</itunes:author>
+        <itunes:keywords>Technology</itunes:keywords>
+        <itunes:category text="Technology"/>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <itunes:image href="https://placekitten.com/g/1400/1400"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:owner>
+            <itunes:name><![CDATA[This Week in r/Reactjs]]></itunes:name>
+            <itunes:email>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <copyright>copyright REACTSTATICPODCAST_YOURNAMEHERE</copyright>
+        <atom:link href="https://reactstaticpodcast.netlify.com/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hooks enabled, Intro to FP, Building Youtube, and the Top Post of All Time]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-3.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-3.mp3</guid>
+            <pubDate>Sun, 27 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This episode was supposed to be on Anchor but Anchor screwed up and that was the last straw.</p>
+<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aj4uzz/hooks_are_now_merged_and_enabled_release_coming/">Hooks are now merged and enabled - release coming soon</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aiqtb5/9_yo_react_developer_revel_carlberg_west_talks/">9 y/o React Developer Revel Carlberg West talks about React Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ajqhco/how_to_get_team_of_java_developers_comfortable/">How to get team of java developers comfortable with ReactJs?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aielk8/an_intro_to_functional_programming/">An Intro to Functional Programming</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ak2sjo/after_falling_in_love_with_react_native_less_than/">Tour, a drag-drop-based travel planning app</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ai7umk/build_youtube_in_react_a_free_epic_length_tutorial/">Build Youtube in React - a free epic length tutorial</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ajd7i3/i_made_the_periodic_table_of_elements_with_css/">The Periodic Table of Elements</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ait5h2/new_ui_framework_based_on_bulma_written_in/">rbx – a UI Framework based on Bulma</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<p>This episode was supposed to be on Anchor but Anchor screwed up and that was the last straw.</p>
+<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aj4uzz/hooks_are_now_merged_and_enabled_release_coming/">Hooks are now merged and enabled - release coming soon</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aiqtb5/9_yo_react_developer_revel_carlberg_west_talks/">9 y/o React Developer Revel Carlberg West talks about React Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ajqhco/how_to_get_team_of_java_developers_comfortable/">How to get team of java developers comfortable with ReactJs?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aielk8/an_intro_to_functional_programming/">An Intro to Functional Programming</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ak2sjo/after_falling_in_love_with_react_native_less_than/">Tour, a drag-drop-based travel planning app</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ai7umk/build_youtube_in_react_a_free_epic_length_tutorial/">Build Youtube in React - a free epic length tutorial</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ajd7i3/i_made_the_periodic_table_of_elements_with_css/">The Periodic Table of Elements</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ait5h2/new_ui_framework_based_on_bulma_written_in/">rbx – a UI Framework based on Bulma</a></li>
+</ul>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="8387522" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-3.mp3"/>
+            <itunes:duration>05:49</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the third episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>3</itunes:episode>
+        </item>
+        <item>
+            <title><![CDATA[Performance, DevTools v4, and Windows 95 in Hooks]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-6.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-6.mp3</guid>
+            <pubDate>Sun, 17 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/apopn3/this_benchmark_is_indeed_flawed_dan_abramov_medium/">This benchmark is indeed flawed</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aq1g6w/early_demo_of_the_new_react_devtools/_">Early demo of the new React DevTools</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aqu26j/react_devtools_v4_will_allow_inspectable_complex/">React DevTools v4 will allow inspectable complex hook values</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/apiy3t/usedarkmode_add_a_dark_mode_toggle_to_your/">useDarkMode</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ar6ejo/videotutorial_about_performance_profiling_using/">Video-tutorial about performance profiling using Profiler and Chrome Performance Tab</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aricfc/creating_a_file_upload_component_with_react/">Creating a File Upload Component with React</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aqk3yg/i_made_a_free_admin_dashboard_template_pack_using/">Shards Dashboard React</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/apvc84/i_made_this_vscode_extension_that_makes_jsx_code/">VSCode React Refactor</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/arbuf2/windows_95_built_with_react_hooks/">Windows 95 built with React Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/arox51/i_made_a_barebones_fullstack_reddit_clone_to/">Asperitas full-stack Reddit clone</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/apopn3/this_benchmark_is_indeed_flawed_dan_abramov_medium/">This benchmark is indeed flawed</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aq1g6w/early_demo_of_the_new_react_devtools/_">Early demo of the new React DevTools</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aqu26j/react_devtools_v4_will_allow_inspectable_complex/">React DevTools v4 will allow inspectable complex hook values</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/apiy3t/usedarkmode_add_a_dark_mode_toggle_to_your/">useDarkMode</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ar6ejo/videotutorial_about_performance_profiling_using/">Video-tutorial about performance profiling using Profiler and Chrome Performance Tab</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aricfc/creating_a_file_upload_component_with_react/">Creating a File Upload Component with React</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aqk3yg/i_made_a_free_admin_dashboard_template_pack_using/">Shards Dashboard React</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/apvc84/i_made_this_vscode_extension_that_makes_jsx_code/">VSCode React Refactor</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/arbuf2/windows_95_built_with_react_hooks/">Windows 95 built with React Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/arox51/i_made_a_barebones_fullstack_reddit_clone_to/">Asperitas full-stack Reddit clone</a></li>
+</ul>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="9885279" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-6.mp3"/>
+            <itunes:duration>06:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the sixth episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>6</itunes:episode>
+        </item>
+        <item>
+            <title><![CDATA[Hooks in DevTools, and Regrettable Tech Choices]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-2.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-2.mp3</guid>
+            <pubDate>Sun, 20 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This episode first debuted on Anchor: <a href="https://anchor.fm/swyx/episodes/2---Hooks-in-DevTools--and-Regrettable-Tech-Choices-e30ap7">https://anchor.fm/swyx/episodes/2---Hooks-in-DevTools--and-Regrettable-Tech-Choices-e30ap7</a></p>
+<p>Links discussed:</p>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ag1gye/hooks_support_added_in_devtools_v36/">Hooks support added in DevTools v3.6</a> -<a href="https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/">Tech Choices I Regret at Spectrum</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/agpo04/react_best_practices/">React Best Practices</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ahtquu/learning_react_heres_my_first_go_at_it_a_pure_css/">A Pokedex using PokeAPI</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<p>This episode first debuted on Anchor: <a href="https://anchor.fm/swyx/episodes/2---Hooks-in-DevTools--and-Regrettable-Tech-Choices-e30ap7">https://anchor.fm/swyx/episodes/2---Hooks-in-DevTools--and-Regrettable-Tech-Choices-e30ap7</a></p>
+<p>Links discussed:</p>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ag1gye/hooks_support_added_in_devtools_v36/">Hooks support added in DevTools v3.6</a> -<a href="https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/">Tech Choices I Regret at Spectrum</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/agpo04/react_best_practices/">React Best Practices</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ahtquu/learning_react_heres_my_first_go_at_it_a_pure_css/">A Pokedex using PokeAPI</a></li>
+</ul>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="10277742" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-2.mp3"/>
+            <itunes:duration>07:08</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the second episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>2</itunes:episode>
+        </item>
+        <item>
+            <title><![CDATA[Hooks Questions Galore, TypeScript + GraphQL + NextJs, React Hooks Contest]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-5.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-5.mp3</guid>
+            <pubDate>Sun, 10 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anonoe/react_v168_the_one_with_hooks_react_blog/">React 16.8 - the one with Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap12uq/do_you_still_need_redux_with_the_new_hook_apis/">Do you still need Redux with the new Hook APIs</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aoecpw/should_i_ever_use_classes_now/">Should I ever use classes now?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap2cp6/what_react_hooks_can_do_for_you/">What React Hooks can do for you?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anf5h4/just_finished_making_a_series_on_typescript/">Typescript, GraphQL, Nextjs youtube series</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap4aw7/firebase_react_hooks_authentication/">Firebase + React Hooks Authentication</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anuj5z/browse_the_history_of_any_file_from_github_with/">github history</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anbts1/im_building_an_opensource_rpg_made_with_react/">react RPG</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aop9x7/my_first_personal_react_project_diamonds_editor/">Diamonds Editor</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aojnyd/announcing_linaria_10_zero_runtime_cssinjs_library/">Linaria v1.0</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anpxum/rreactjs_react_hooks_contest/">React Hooks Contest</a></li>
+</ul>
+<hr>
+<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+]]></description>
+            <content:encoded><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anonoe/react_v168_the_one_with_hooks_react_blog/">React 16.8 - the one with Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap12uq/do_you_still_need_redux_with_the_new_hook_apis/">Do you still need Redux with the new Hook APIs</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aoecpw/should_i_ever_use_classes_now/">Should I ever use classes now?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap2cp6/what_react_hooks_can_do_for_you/">What React Hooks can do for you?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anf5h4/just_finished_making_a_series_on_typescript/">Typescript, GraphQL, Nextjs youtube series</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap4aw7/firebase_react_hooks_authentication/">Firebase + React Hooks Authentication</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anuj5z/browse_the_history_of_any_file_from_github_with/">github history</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anbts1/im_building_an_opensource_rpg_made_with_react/">react RPG</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aop9x7/my_first_personal_react_project_diamonds_editor/">Diamonds Editor</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aojnyd/announcing_linaria_10_zero_runtime_cssinjs_library/">Linaria v1.0</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anpxum/rreactjs_react_hooks_contest/">React Hooks Contest</a></li>
+</ul>
+<hr>
+<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="13701455" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-5.mp3"/>
+            <itunes:duration>09:31</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the fifth episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>5</itunes:episode>
+        </item>
+        <item>
+            <title><![CDATA[Hooks Day Coming, React as a UI Runtime, React-Redux Roadmap]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-4.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-4.mp3</guid>
+            <pubDate>Sun, 03 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/al3zj7/react_168_the_one_hopefully_with_hooks_planned/">React 16.8 (The One Hopefully with Hooks) planned for Feb 4</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/amhr5y/weekend_reads_react_docs_on_hooks/">Weekend Reads: React Docs on Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aml427/react_as_a_ui_runtime/">React as a UI Runtime</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/amuhwi/reactredux_roadmap_v6_context_subscriptions_and/">React-Redux Roadmap: v6, Context, Subscriptions, and Hooks</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/alevhs/nice_and_smooth_ive_created_a_collection_of/">Nice and smooth! I’ve created a collection of animated burgers (HTML/CSS + React)</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/am58h2/fully_functional_whatsapp_clone_using_react/">Fully functional WhatsApp Clone using React (Hooks+Suspense), GraphQL, Apollo, TypeScript and PostgreSQL</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/akvead/hey_guys_just_finished_my_personal_website_using/">/dondonleroy’s personal site</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/alpo0q/i_had_a_real_nostalgic_attack_so_i_created_this/">I had a real nostalgic attack so I created this library</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/al1c1p/introducing_reactmovable_drag_and_drop_for_your/">Introducing react-movable: Drag and drop for your lists and tables. 3.5kB gzipped. Accessible.</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/alpjyc/announcing_overmind_reducing_the_pain_of_state/">Announcing Overmind, reducing the pain of state management</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/akr0ax/road_to_react_with_firebase/">Road to React with Firebase</a></li>
+</ul>
+<hr>
+<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+]]></description>
+            <content:encoded><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/al3zj7/react_168_the_one_hopefully_with_hooks_planned/">React 16.8 (The One Hopefully with Hooks) planned for Feb 4</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/amhr5y/weekend_reads_react_docs_on_hooks/">Weekend Reads: React Docs on Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aml427/react_as_a_ui_runtime/">React as a UI Runtime</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/amuhwi/reactredux_roadmap_v6_context_subscriptions_and/">React-Redux Roadmap: v6, Context, Subscriptions, and Hooks</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/alevhs/nice_and_smooth_ive_created_a_collection_of/">Nice and smooth! I’ve created a collection of animated burgers (HTML/CSS + React)</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/am58h2/fully_functional_whatsapp_clone_using_react/">Fully functional WhatsApp Clone using React (Hooks+Suspense), GraphQL, Apollo, TypeScript and PostgreSQL</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/akvead/hey_guys_just_finished_my_personal_website_using/">/dondonleroy’s personal site</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/alpo0q/i_had_a_real_nostalgic_attack_so_i_created_this/">I had a real nostalgic attack so I created this library</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/al1c1p/introducing_reactmovable_drag_and_drop_for_your/">Introducing react-movable: Drag and drop for your lists and tables. 3.5kB gzipped. Accessible.</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/alpjyc/announcing_overmind_reducing_the_pain_of_state/">Announcing Overmind, reducing the pain of state management</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/akr0ax/road_to_react_with_firebase/">Road to React with Firebase</a></li>
+</ul>
+<hr>
+<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="13808035" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-4.mp3"/>
+            <itunes:duration>09:35</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the fourth episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>4</itunes:episode>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript, UI Engineering, and FBT]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-0.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-0.mp3</guid>
+            <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This episode first debuted on Anchor: <a href="https://anchor.fm/swyx/episodes/0--TypeScript--UI-Engineering--and-FBT-e2r98k">https://anchor.fm/swyx/episodes/0--TypeScript--UI-Engineering--and-FBT-e2r98k</a></p>
+<p>Links discussed:</p>
+<ul>
+<li><a href="https://reddit.com/r/reactjs/comments/abtrxy/everything_i_write_in_2019_will_be_in_typescript/">Typescript</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/ac8yyt/react_kawaii_cute_react_svg_components/">React Kawaii</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/ab2184/the_elements_of_ui_engineering/">UI Engineering</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/ac8m69/fbt_has_been_open_sourced_framework_used_for/">FBT</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/act2sy/only_hooks_functional_components/">Movies App Lynks</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/acwzt0/im_making_a_react_katas_to_practice/">React Katas</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<p>This episode first debuted on Anchor: <a href="https://anchor.fm/swyx/episodes/0--TypeScript--UI-Engineering--and-FBT-e2r98k">https://anchor.fm/swyx/episodes/0--TypeScript--UI-Engineering--and-FBT-e2r98k</a></p>
+<p>Links discussed:</p>
+<ul>
+<li><a href="https://reddit.com/r/reactjs/comments/abtrxy/everything_i_write_in_2019_will_be_in_typescript/">Typescript</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/ac8yyt/react_kawaii_cute_react_svg_components/">React Kawaii</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/ab2184/the_elements_of_ui_engineering/">UI Engineering</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/ac8m69/fbt_has_been_open_sourced_framework_used_for/">FBT</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/act2sy/only_hooks_functional_components/">Movies App Lynks</a></li>
+<li><a href="https://reddit.com/r/reactjs/comments/acwzt0/im_making_a_react_katas_to_practice/">React Katas</a></li>
+</ul>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="10484380" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-0.mp3"/>
+            <itunes:duration>10:55</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the first episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
