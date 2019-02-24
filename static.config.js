@@ -67,7 +67,10 @@ mkDir('/public/rss/')
 
 // generate HTML
 export default {
-  plugins: ['react-static-plugin-typescript'],
+  plugins: [
+    'react-static-plugin-styled-components',
+    'react-static-plugin-typescript',
+  ],
   entry: path.join(__dirname, 'src', 'index.tsx'),
   siteRoot: myURL,
   getSiteData: async () => {
