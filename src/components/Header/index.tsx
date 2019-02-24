@@ -56,7 +56,9 @@ function Header({
         <meta name="twitter:creator" content="@swyx" />
       </Helmet>
       <HLDiv>
-        <h1>{title}</h1>
+        <h1>
+          <a href={myURL}>{title}</a>
+        </h1>
         {/* <img src="https://sw-yx.tinytake.com/media/952085?filename=1548652201152_27-01-2019-19-10-00.png&sub_type=thumbnail_preview&type=attachment&width=282&height=207&&salt=MzI2MjE2OV85NzczMTg5" /> */}
       </HLDiv>
       <HeaderRight />
