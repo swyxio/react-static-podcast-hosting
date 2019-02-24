@@ -6,8 +6,8 @@
         <language>en</language>
         <description>a podcast feed and blog generator in React and hosted on Netlify</description>
         <managingEditor>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com)</managingEditor>
-        <pubDate>Mon, 18 Feb 2019 15:16:32 GMT</pubDate>
-        <lastBuildDate>Mon, 18 Feb 2019 15:16:32 GMT</lastBuildDate>
+        <pubDate>Sun, 24 Feb 2019 13:51:38 GMT</pubDate>
+        <lastBuildDate>Sun, 24 Feb 2019 13:51:38 GMT</lastBuildDate>
         <docs>https://reactstaticpodcast.netlify.com</docs>
         <generator>https://github.com/sw-yx/react-static-typescript-starter</generator>
         <itunes:summary>This Week in r/Reactjs</itunes:summary>
@@ -148,57 +148,27 @@
             <itunes:episode>2</itunes:episode>
         </item>
         <item>
-            <title><![CDATA[Hooks Questions Galore, TypeScript + GraphQL + NextJs, React Hooks Contest]]></title>
-            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-5.mp3]]></link>
-            <guid>https://reactstaticpodcast.netlify.com/episodes/week-5.mp3</guid>
-            <pubDate>Sun, 10 Feb 2019 00:00:00 GMT</pubDate>
+            <title><![CDATA[some words]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-7.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-7.mp3</guid>
+            <pubDate>Sun, 24 Feb 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[<h2>Discussions</h2>
-<ul>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anonoe/react_v168_the_one_with_hooks_react_blog/">React 16.8 - the one with Hooks</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/ap12uq/do_you_still_need_redux_with_the_new_hook_apis/">Do you still need Redux with the new Hook APIs</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/aoecpw/should_i_ever_use_classes_now/">Should I ever use classes now?</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/ap2cp6/what_react_hooks_can_do_for_you/">What React Hooks can do for you?</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anf5h4/just_finished_making_a_series_on_typescript/">Typescript, GraphQL, Nextjs youtube series</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/ap4aw7/firebase_react_hooks_authentication/">Firebase + React Hooks Authentication</a></li>
-</ul>
+<p>sdsd</p>
 <h2>Projects</h2>
-<ul>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anuj5z/browse_the_history_of_any_file_from_github_with/">github history</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anbts1/im_building_an_opensource_rpg_made_with_react/">react RPG</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/aop9x7/my_first_personal_react_project_diamonds_editor/">Diamonds Editor</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/aojnyd/announcing_linaria_10_zero_runtime_cssinjs_library/">Linaria v1.0</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anpxum/rreactjs_react_hooks_contest/">React Hooks Contest</a></li>
-</ul>
-<hr>
-<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+<p>sdsdw</p>
 ]]></description>
             <content:encoded><![CDATA[<h2>Discussions</h2>
-<ul>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anonoe/react_v168_the_one_with_hooks_react_blog/">React 16.8 - the one with Hooks</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/ap12uq/do_you_still_need_redux_with_the_new_hook_apis/">Do you still need Redux with the new Hook APIs</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/aoecpw/should_i_ever_use_classes_now/">Should I ever use classes now?</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/ap2cp6/what_react_hooks_can_do_for_you/">What React Hooks can do for you?</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anf5h4/just_finished_making_a_series_on_typescript/">Typescript, GraphQL, Nextjs youtube series</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/ap4aw7/firebase_react_hooks_authentication/">Firebase + React Hooks Authentication</a></li>
-</ul>
+<p>sdsd</p>
 <h2>Projects</h2>
-<ul>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anuj5z/browse_the_history_of_any_file_from_github_with/">github history</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anbts1/im_building_an_opensource_rpg_made_with_react/">react RPG</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/aop9x7/my_first_personal_react_project_diamonds_editor/">Diamonds Editor</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/aojnyd/announcing_linaria_10_zero_runtime_cssinjs_library/">Linaria v1.0</a></li>
-<li><a href="https://www.reddit.com/r/reactjs/comments/anpxum/rreactjs_react_hooks_contest/">React Hooks Contest</a></li>
-</ul>
-<hr>
-<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+<p>sdsdw</p>
 ]]></content:encoded>
             <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
-            <enclosure length="13701455" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-5.mp3"/>
-            <itunes:duration>09:31</itunes:duration>
+            <enclosure length="13558513" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-7.mp3"/>
+            <itunes:duration>09:25</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:subtitle><![CDATA[the fifth episode]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[the seventh episode]]></itunes:subtitle>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>5</itunes:episode>
+            <itunes:episode>7</itunes:episode>
         </item>
         <item>
             <title><![CDATA[Hooks Day Coming, React as a UI Runtime, React-Redux Roadmap]]></title>
@@ -252,6 +222,59 @@
             <itunes:subtitle><![CDATA[the fourth episode]]></itunes:subtitle>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:episode>4</itunes:episode>
+        </item>
+        <item>
+            <title><![CDATA[Hooks Questions Galore, TypeScript + GraphQL + NextJs, React Hooks Contest]]></title>
+            <link><![CDATA[https://reactstaticpodcast.netlify.com/episodes/week-5.mp3]]></link>
+            <guid>https://reactstaticpodcast.netlify.com/episodes/week-5.mp3</guid>
+            <pubDate>Sun, 10 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anonoe/react_v168_the_one_with_hooks_react_blog/">React 16.8 - the one with Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap12uq/do_you_still_need_redux_with_the_new_hook_apis/">Do you still need Redux with the new Hook APIs</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aoecpw/should_i_ever_use_classes_now/">Should I ever use classes now?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap2cp6/what_react_hooks_can_do_for_you/">What React Hooks can do for you?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anf5h4/just_finished_making_a_series_on_typescript/">Typescript, GraphQL, Nextjs youtube series</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap4aw7/firebase_react_hooks_authentication/">Firebase + React Hooks Authentication</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anuj5z/browse_the_history_of_any_file_from_github_with/">github history</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anbts1/im_building_an_opensource_rpg_made_with_react/">react RPG</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aop9x7/my_first_personal_react_project_diamonds_editor/">Diamonds Editor</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aojnyd/announcing_linaria_10_zero_runtime_cssinjs_library/">Linaria v1.0</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anpxum/rreactjs_react_hooks_contest/">React Hooks Contest</a></li>
+</ul>
+<hr>
+<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+]]></description>
+            <content:encoded><![CDATA[<h2>Discussions</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anonoe/react_v168_the_one_with_hooks_react_blog/">React 16.8 - the one with Hooks</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap12uq/do_you_still_need_redux_with_the_new_hook_apis/">Do you still need Redux with the new Hook APIs</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aoecpw/should_i_ever_use_classes_now/">Should I ever use classes now?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap2cp6/what_react_hooks_can_do_for_you/">What React Hooks can do for you?</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anf5h4/just_finished_making_a_series_on_typescript/">Typescript, GraphQL, Nextjs youtube series</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/ap4aw7/firebase_react_hooks_authentication/">Firebase + React Hooks Authentication</a></li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anuj5z/browse_the_history_of_any_file_from_github_with/">github history</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anbts1/im_building_an_opensource_rpg_made_with_react/">react RPG</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aop9x7/my_first_personal_react_project_diamonds_editor/">Diamonds Editor</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/aojnyd/announcing_linaria_10_zero_runtime_cssinjs_library/">Linaria v1.0</a></li>
+<li><a href="https://www.reddit.com/r/reactjs/comments/anpxum/rreactjs_react_hooks_contest/">React Hooks Contest</a></li>
+</ul>
+<hr>
+<p>Listen til the end for a <a href="https://www.youtube.com/watch?v=ckbhnKVRWUA">easter egg!</a></p>
+]]></content:encoded>
+            <author>REACTSTATICPODCAST_AUTHOR_EMAIL@foo.com (This Week in r/Reactjs)</author>
+            <enclosure length="13701455" type="audio/mpeg" url="https://reactstaticpodcast.netlify.com/episodes/week-5.mp3"/>
+            <itunes:duration>09:31</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:subtitle><![CDATA[the fifth episode]]></itunes:subtitle>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>5</itunes:episode>
         </item>
         <item>
             <title><![CDATA[TypeScript, UI Engineering, and FBT]]></title>

@@ -12,7 +12,7 @@ import styled from 'styled-components'
 const Main = styled('main')`
   background: #fff;
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 `
 
 type Props = {
@@ -43,8 +43,8 @@ export default withSiteData(
           }}
           mostRecentEpisode={mostRecentEpisode}
         />
+        <Player mostRecentEpisode={mostRecentEpisode} />
         <Main>
-          <Player mostRecentEpisode={mostRecentEpisode} />
           <ShowList frontmatters={frontmatters} />
           <ShowNotes mostRecentEpisode={mostRecentEpisode} />
         </Main>
